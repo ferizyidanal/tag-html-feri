@@ -1,7 +1,7 @@
 # tag-html-feri
 ![M.Feri Zd](
 ![HTML BESIC TAGS](https://github.com/ferizyidanal/tag-html-feri/assets/118708728/567d4f14-30fe-4ffb-8d55-b070d83e71a3))
-
+##  kegunaan tag-tag html beserta atribut-atribut globalnya.
 ### Basic
 #### [!DOCTYPE] = tag untuk menetukan tipe dokumen
 #### [html] = tag untuk membuat sebuah dokumen html
